@@ -1,14 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Sitio web personal Luis Palomares</title>
+    <link>https://luispalomares27.github.io/</link>
+    <description>Recent content on Sitio web personal Luis Palomares</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://luispalomares27.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Información de contacto</title>
+      <link>https://luispalomares27.github.io/contacto/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luispalomares27.github.io/contacto/</guid>
+      <description>Medios de contacto disponibles:
+  [GitHub] (https://LuisPalomares27.github.io)
+  Sitio web persona
+  </description>
+    </item>
+    
+    <item>
+      <title>Portafolio de proyectos</title>
+      <link>https://luispalomares27.github.io/portafolio/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://luispalomares27.github.io/portafolio/</guid>
+      <description>Listado de proyectos en los que he participado:
+ Programacion de puertas electricas Manufactura de una empresa en material biodegradable Programacion de una maquina para material de un laboratorio  </description>
+    </item>
     
   </channel>
 </rss>
